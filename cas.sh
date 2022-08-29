@@ -1,3 +1,6 @@
+
+#!/bin/bash
+
 echo -e "[Unit]
 Description=dcmlocker 
 [Service]
