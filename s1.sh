@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo sh -c"
 [Desktop Entry]
 Name=KioskMode #name
