@@ -1,2 +1,6 @@
 #!/bin/bash
-echo '[archlinuxfr]' | sudo tee -a /etc/xdg/autostart/display.desktop >/dev/null
+sudo bash -c 'cat << EOF > /etc/xdg/autostart/display.desktop
+line1
+line2
+line3
+EOF'
