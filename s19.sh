@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt-get update
+sudo touch hola.txt
