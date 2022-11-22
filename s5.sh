@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo nano /etc/xdg/autostart/display.desktop
+mkdir /etc/xdg/autostart/display.desktop
 echo -e "
 [Desktop Entry]
 Name=KioskMode #name
