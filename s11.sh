@@ -1,3 +1,2 @@
 #!/bin/bash
-
-sudo -s 'echo "# test" >>/etc/xdg/autostart/display.desktop'
+echo '[archlinuxfr]' | sudo tee -a /etc/xdg/autostart/display.desktop >/dev/null
