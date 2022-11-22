@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo sudo touch /etc/xdg/autostart/display.desktop
+echo "sudo touch /etc/xdg/autostart/display.desktop"
