@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo touch /etc/xdg/autostart/display.desktop
 echo -e "
 [Desktop Entry]
 Name=KioskMode #name
