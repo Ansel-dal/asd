@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo touch display.desktop
+sudo chmod ugo+rwx display.desktop
 echo "
 [Desktop Entry]
 Name=KioskMode #name
